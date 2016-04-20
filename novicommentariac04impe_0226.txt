@@ -1,0 +1,45 @@
+256 DEMONSTRATIO‘
+
+SCHOLION.
+
+17. Quanquam alterum Theorema ita ab hoc pen-
+det , vt cum hoc fuerit demonstratum , fimul iuius veritas
+fit euifta , tamen ex problemate praemisso etiam alterius
+Theorematis demonstratio confici potest &quenti modo.
+
+PROPOSITIO IV. THEOREMA.
+ι 3. I n omni solido hedris planis incluso numerus he-
+
+drarum vna cum numero atgulorum salmurum , binario ex·
+cedit numerum acierum.
+
+DEMONST R Α.ΤΙΟ
+Sit in solido quocun ue proposito:
+
+numerus angulorum 101idorum— ..- S
+numerus hedrarum - · - :H
+numerus acierum - - - z: A
+
+atque ante vidimus, fi resteffione vnius anguli solidi nu·
+merus S vnitate minuatur ‚ vt fit S — 1 ‚ tum differen-
+tiam inter numerum acierum et numerum hedmrum fu·
+turam effe z A—H— 1. Continuata crgo hac mutilatione ,
+
+fi numerus angulorum
+
+solidorum fit ‚
+
+Ecccssus numeri acierum
+super numerum hedmtum
+
+ 
+
+erit
+S A-H
+5-1 Α- H-1
+S—2 A- H- 2
+S—:3 ΙΑ- Η-3
+S—-n ΙΙ Α- -n
+
+Quando
+

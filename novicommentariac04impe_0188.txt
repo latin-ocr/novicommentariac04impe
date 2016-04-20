@@ -1,0 +1,38 @@
+ηδ ELEMENTA
+
+PROPOSIT10.111.
+
+ς, 30- Numerus omnium angulorum planorum , qui
+in ambita cuiusque fiilidi existmzt vel aequalis est vel
+maior numero angulorum Jblidorum ter sumto. Vel nu-
+merus angulorum planorum nunquam minor effe potest
+quam triplum numeri angulorum solidorum.
+
+DEMONSTRATIO.
+
+Quilibet angulus solidus vel a tribus angulis planis
+formatur vela pluribu5‚ pauciores enim quam tres an-
+guli plani angulum solidum constituere nequeunt. Hinc
+fi ornnes anguli (olidi a tribus planis formantur, numerus
+angulorum planorum triplo maior effe debet quam nu-
+merus angulorum solidorum3 sm autem ad quosdam an-
+gulos solidos constituendos plures anguli plani coniunguntur ,
+numerus angulorum planorum quoquc maior crit quam
+‘ numerus angulorum solidorum , minor autern nunquam effe
+
+potest. Q. E. D.
+COROLL. 1.
+
+§. 31. Si numerus angulorum solidorum ponatur
+z S , numerus vero acierum z A pro {olido quocunque ,
+quia numerus omnium angulorum planorum cst z 2 A,
+
+semper erit vel 2 Azg Svel :A > 35.
+
+COROLL. 2.
+
+ξ. 32. Fieri ergo nequit, vt vnquam fit 2 Α <,’
+
+3 S, scu Α, <ζ {S , scus> ξ Α. Quare fi practerea numerus
+heuta-
+

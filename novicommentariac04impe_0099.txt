@@ -1,0 +1,38 @@
+,QVI SVNT AGGREG. WORQVADR. ,εἰ
+
+numerus propositus ipse sit quadratum , seu z: a a -4- 0 ,
+tum emm diuisorem habebit a.
+
+SCHOLION.
+
+ξ. 39. Haec regula numeros primos explorandi tan·
+tum nd numeros impares formae 4n-k- 1 est adstricta ‚
+numeri enim pares quandoque vnico modo in duo qua.
+drzita resolui possunt, cum tamen non smt primi·, ita
+10 vnico modo est summa duorum quadratorum , etsi
+non est primuS, cuius rei ratio est ‚ quod in produc‘to
+(aa-l· bb)(cc -3— dd), cui huiusmodi numeri
+aequantur , est vel a :z b vel c z d ‚ quo casu duplex
+
+resolutio , quae generatim innui videtur , ad vnam redit,
+vti in demonstratione est animaduersum . Neque vero hac
+
+exceptione regula data infringitur, cum numerorum
+parium per se facile fit iudicium. Numeri autem impares
+alterius formae 4 n —- 1 hinc sponte excluduntur, quoniam
+ii plane non in duo quadrata sunt resolubilis. De cetero
+fi numerus 4 n -÷- 1 vel plane non resolubilis fit in duo
+quadrata, vel pluribus modis haec resolutio succedat ,
+pro priori casu iam notauirnus ‚ eum numerum certe non
+effe primum ‚ etsi hoc nititur Prop. praec. non satis
+rigide demonstrata. Pro casii vcro posteriori in sequenti
+propositione iudicium afferetur.
+
+PROP051T10.v11.
+
+ξ. 40. Qui numerus duobus pluribusne diuetfis mo·
+dfs in duo quadrata resolui potest , ille non est primus ,
+Jed ex duobus ad minimum fusioribus compofitus.
+
+D 3 DE-
+

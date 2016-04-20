@@ -1,0 +1,38 @@
+DOCTRINAE SOLIDORVM. ¹¹9
+
+hedrarum ponatur z H ‚ neque hic numerus H neque
+numerus S maior este potest quam ξΑ.
+
+PROPOSITIO lv.
+
+ξ. 33. ln omni solida hedris planis inclufh aggregatum
+ex numero angulorum solidorum et ex numero hedrarum
+binario excedit numerum acierum.
+
+DEMONSTRATIO.
+
+Scilicet s1 ponatur vt haetenus:
+
+numerus angulorum solidorum z S
+numerus acierum - - - - z A
+numerus hedmrum - · - :z H
+
+demonstrandum cst ‚ effe S -4- H :z A -4- 2.
+
+Fateri equidem cogor, me huius theorematisdemonstra-
+tionem firmam adhuc eruere non potuiffe3 interim ta-
+
+men eius veritas pro omnibus solidorum generibus, nd
+quae examinabitur, non difficulter agnoscetur, ita vt
+sequens industio vicem demonstrationis gerere queat.
+
+1. Consideremus ergo primo pyramidem quamcun- Fig- 3„
+que super bafi A Β C D E F G quotcunque laterum cou-
+stitutam et in apicem H definentem. Sit numerus lu-
+terum bafis :- m, totidemque triangula a bafi ad apicem
+vsque assurgent· Includitur ergo haec pyramis m -ξ- 1
+hedris, quarum m {unt triangula, vna vcro polygonum
+m angulorum ieu laterum. Erit itaque numexus hedra-
+
+rum
+

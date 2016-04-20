@@ -1,0 +1,38 @@
+,QVI SVNT AGGREG. DVOR. QVADR. ²7
+
+PROPOSITIO V1.
+
+§. 3 5. Si numerus formae 4 n -4— 1 wico modo
+in duo quadrata inter J& prima resolui queat, tum certe
+est numerus primus.
+
+DEMONSTRATIO.
+
+Quoniam enim hic numerus est summa duorum
+qu.1dr·.1t0rum inter se primorum, s1 non fit prima, sm-
+guli eius faCtores crunt summae duorum quadratorum.
+Quare fi hic numerus non essct primus , in huiusmodi
+{sstem duos {astores resolui poflbt , vt esset 4⁷² ψ 1 z
+( a a »ὶ- b b ) ( c c ÷d d) , hoc autem casu duplex resolutio
+in duo quadrata locum luber, scilicet ·.
+
+Ι. 4n÷ 1 :(ac—÷—l1d)²-÷—(ad—bc)²
+
+11. 472—4— 1 ;-.·ῑ(αᾶ--ὶ--ὐεγ-ὶΓ-(αε-ὐίί)2
+
+Haeque resolutiones semper sunt diuersae ‚ nifi fit vel
+ac—†—l1d:ad—†-bc vel ac ’ὲ- bdzac—bd.
+Priori vero cass1 foret ac÷bd—ad—bc:0 , seu (cz—b)
+(c—d):0 , ideoque vel a :z b vel c z: d3 atque hinc
+vel a a -μ b b vel cc -4— dd numerus par ‚ quorum
+neutrum csse potest diuithr ipfius 4714- 1 vtpote nume—
+ri imparin. posteriori vcro casu css‘et vel b: 0 vel d z 0,
+ideoque 4 n —1- 1 vel z a a ( c c —{— dd) vel -ῑ c c ( ααηῑ-
+ί] b ) 3 vnde haec duo quadrata non fiuent prima in-
+tcr ss: contra hypothcfin. Quibus casibus notatis sequitur,
+numerum compofimm 4 n -ξ- 1 , fi in dno quadrata in·-
+ter se prima fucrit resolubilis ‚ eundem ad minimum duobus
+
+modis in duo quadrata effe resblubilcm. Quocirca fi tan-
+D 2 tum
+

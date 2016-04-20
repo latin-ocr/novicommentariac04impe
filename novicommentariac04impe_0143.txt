@@ -1,0 +1,42 @@
+MOLARVM ALATARVM 73
+
+PROBLEMA V11.
+
+33. δι’ ala suerit plana , atque axis , circa quem
+m':c;'1⁴m' ‚ direitioni venti direc‘le opponatur, inuenire in-
+ammonem ‚ sub qua ala ad axem constitui dfhet , atque
+celan-itatem alae g yratorz'am , qua momentum aelionis venti
+fiat maximum.
+
+SOLVTIO.
+
+Sit E M F M E figura alae dat-a ‚ in plano tabu'aeFig-6·
+
+exhibita ‚ per cuius punctum quodpiam caxis C c trans-
+eat , cuius inclinatio C c D Ξῖ. Φ quaeritur. Detur tamen
+planum C c D ‚ in quo axis constituitur , ad planum alae
+normale , ideoque inter-festio c D , cui parallelae sumantur
+ordinatae Μ Μ , mm in ala, positisque D T z t ‚ et
+M M Ξ v, pro tota ala per integrationes quaerantur
+sequentes valores
+
+svtdtzA ,settdtzzB etsvt’dt--C
+
+Deinde sit maxima alae ab axe elongatio Dsz, et
+celeritas , qua punc‘tum F circa axem gyratur z u , quae
+etiam ita definienda est, vt momentum ac'tionis fiat
+maximum. Iam vero quia directio venti in diree‘tioncm
+axis incidere assumitur ‚ erit momentum aetionis:
+
+Λ ‘'J‘' ¹‘ sin. <D²cofi Φ- ³31OE sin. Φ co( (β’-μ }ff'. coms
+Ponamus primo celeritatem uiam effe datam ‚ et quae-
+
+ramus angulum (D, qno hoc momentum fiat maximum,
+
+atque manifestum est , eodem cal'u maximum fieri mo-
+mentum potentiale:
+
+Tom. lV. Nov. Com. K Aee
+
+ 
+

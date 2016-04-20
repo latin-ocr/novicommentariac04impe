@@ -1,0 +1,37 @@
+20 DE NVMERIS
+
+ma duorum quadratorum (inter (e primorum) per mul-
+tiplicationem oriri nequeat , nisl ex numeris ‚ qui ipsi
+sint summae duorum quadratorum.
+
+COROLL. 2.
+
+ξ. 24. Omnes ergo numeri , qui sunt summae
+duorum quadratorum iuter se primorum, vel ipsi iu hac
+serie numerorum primorum continentur:
+2‚5,13,17‚29,37,41‚53,61‚73,89‚97,101, 109> 1 137 etc·
+vel ex duobus pluribusne numeris huius seriei per mul-
+tiplicationem componuntur. Omnes autem hi numeri
+primi praeter 2 vuitate excedunt multiplum quaternarii
+seu in hac forma 4 n -Ρ- 1 continentur.
+
+COROLL. 3.
+
+§. 25. Si igitur summa duorum quadratorum aa÷bb
+diuifibilis fit per numerum , qui non fuerit summa duorum
+quadratorum 3 hinc intelligetur quadrata illa αα et bb non
+effe inter se prima ‚ neque adeo eorum radices a et b.
+
+COROLL. 4.
+
+§. 26. Cum autem fi a: nc et bznd sum-
+ma duorum quadratorum a a —†- b b z n n ( ι· c -†- d d)
+per quemuis numerum n, qui uon est stimma duorum
+quadratorum , diuidi possit , quoniam nou solum per n ‚ sed
+etiam per nn est diuifibilis, euidens est , si summa duo-
+rum quadratorum diuisibilis sit per quempiam numerum,
+qui nou est summa duorum quadratorum , tum eam quoque
+per quadratum liuius numeri fore diuisibilem. Sic cum‘
+45:13649 sit diuisib. per 3 , simul quoque diuisibilis
+est per 9. COROLL.
+

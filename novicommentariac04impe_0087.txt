@@ -1,0 +1,37 @@
+QVI SVNT AGGREG. DVOR. QVADR. 17
+
+x
+primos non admittere , nifi qui ipss fintsummac duorum
+
+quadratorum. Praemitti autem debet sequens proposstio.
+
+PROPOSITIO ΙΙΙ.
+
+ξ. 1 9 Si stemma duorum quadratosmn inter fi' pri-
+morum a a -1-- b b dmfihilis sit per numerum p , meper
+exhiberi poterit summa duorum aliorum quadratorum
+c c -ι- d d diuifibilis per· eundem numerum p ‚ ita vt ssa
+stamma c c -θ- d d non stt maior quam ’Ξ p p.
+
+DEMONSTRATIO.
+
+Sit summa duorum quadratorum inter se primorum
+a a ÷ b b diuifibilis per numerum p , ct a et b nume·
+ri qumtumuis magui. Quia crgo neque a neque h scor-
+fim per p diuifibilis est ‚ numeri a et b ita exprimi pot-
+erunt , vt s1t azrttpssc et bznpssd‚ vbi
+numeros m et n ita determinare licet , vt c ct d non
+excedant (emissem ipfius p. Erit ergo a a -ἦ- bb:
+mmpp ᾗ 2711cp÷cc÷ nnpp-j— 2ndp—k— dd, quae for-
+mula cum et tota diuifibilis s1t per p (per hyp.) ct eius
+pars mmpp—hmncp—k—nuppss 211pr per ίὲ diuiibrcrn
+habeat p, neceffc cst , vt altera pars cc—}- dd, quae cst
+summa duorum quadratorum , itidem 'per p fit diuifibilis.
+At cum radices c ct d uon excedant semissem ipssus p ‚
+summa quadr.1torum c c—}-d d uon excedet quadratum ξ p p
+bie. tumtum 'a ideoque summu duorum quadratorum ι· 0-Ηίιί
+exhiberi potest non maior quam ζ p p ‚ quae tamen fit
+per p diuifibilis. Q. E. D.
+
+Tom.1V. Nou. Com. C CORQLL.
+

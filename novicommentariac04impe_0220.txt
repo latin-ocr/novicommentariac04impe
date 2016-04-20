@@ -1,0 +1,38 @@
+Fig. ,ae
+
+>850 DEMONSTRATIO
+
+PROPOSITIO ΙΙ. PROBLEMA.
+
+9. Si a ‘corpore propofito angulus quispiam solicitas
+modo ante exposito resecetur ‚ ficque numerus angulorum
+jolidorum vnitate diminuatur ‚ ,determinare in empore relic-‘10
+tam numerum hedi-arum ‚ quam numerum ‚acierum ‚ ae'tem-
+que summam omnium ,angulorum planorum.
+
+‚SOLVT 1-0.
+
+Pro solido proposito sit numerus angulorum suli..
+dorum Ξ S ‚ numerus hedrarurn z H , numerus acierum
+:z A , et omniurn angulorum planorum summa aequetur
+R angulis tediis. Sit iarn Ο angulus solidus resecandus,
+ita, vt eo resecto *in {olido 1reliquo numerus angulorum
+solidorum futurus fit :S — Αι 3 atque vt reliquas solidi
+remanentis affeffiones cognoscamus, contemplemur primo
+summam angulorum planorum , quam in (olido integro
+ponimus :R angulis rectis. Primo autern rest-&ione
+'anguli O ex computo 'angulorum planorum egrediuntur
+omnes auguli in triangulis A O B ‚ B Ο C , C O D ,
+D Ο Ε ‚ E Ο F , vet F O A contenti, quoniam haec
+triangula a superficie corporis abscinduntur. Sit nnumerus
+horum triangulorum, seu angulorum vicinorum Α, B, C,
+D, etc ς atque summa angulorum ‚ablatorum erit z 2 n an-
+gulis reffis. At absciffis‘his triangulis eomm loco l‘upcr-
+ficies corporis iam terminabitur triangulis A B C , A C F ,
+CFD, ct DFE, quorum numerus illo cst binario
+minor , ideoque z n — 2. Cum nunc horum triangulo-
+rum auguli superacccdant, corumque summa sit z
+α η - 4 angulis restis , manifestum cst , per refestioncm
+
+auguli
+
